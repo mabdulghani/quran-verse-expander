@@ -1,0 +1,3 @@
+Version 0.1:
+* initial python script that creates a txt file that can be loaded into Typinator 
+* input is two files, the quran text file and the second a meta data file with surah number and the count of verses in that surah
